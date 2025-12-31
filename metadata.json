@@ -1,0 +1,7 @@
+{
+  "name": "Brandabi",
+  "description": "Your all-in-one partner for business registration, global scaling, high-performance web development, and AI-driven growth.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
